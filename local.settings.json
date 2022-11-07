@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureCosmosDBConnection": "AccountEndpoint=https://pdl-poc.documents.azure.com:443/;AccountKey=uYBMQNYlHi8huvUsnthzI3Ju5sNozO0BuuChUR5yblaCqj4E4ZjNSgXfVDSL7ET9A3UpFtOWIEXTACDbzqzqnw==;",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=pdlpoc;AccountKey=6l8wilsMYWDo0gNzizu4zRYG/82x3nGGeHknMd1KLmTiESGYypPxY8EKifKMarsQjnw5i/I92odI+AStJ4gHaA==;EndpointSuffix=core.windows.net",
+    "JAVA_HOME": "/opt/homebrew/Cellar/openjdk/18.0.1/libexec/openjdk.jdk/Contents/Home",
+    "AzureWebJobsSecretStorageType": "files"
+  }
+}
